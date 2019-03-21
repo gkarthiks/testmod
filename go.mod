@@ -1,1 +1,1 @@
-module github.com/gkarthiks/testmod
+module github.com/gkarthiks/testmod/v2
